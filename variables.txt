@@ -1,0 +1,12 @@
+var food = 'cheese'
+var is_delicious = true
+food = 'apple'
+var num2 = 3
+var num7 = 9
+var quotient = num7 / num2
+var songs = ['Cowsurfing', 'Ricelove', 'Mommy']
+songs.shift()
+food.length
+
+
+//I could add console.log() to the last two to show the answers in the console :)
