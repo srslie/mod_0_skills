@@ -1,0 +1,13 @@
+Object: Bagelery
+
+Attributes:
+staff: ['Larry', 'Gary', 'Felicia']
+dailyBudget: 205.75
+managerOnDuty: 'Larry'
+critiqueAward: false
+
+Methods:
+hire('Anna'): append argument to staff array (staff: ['Larry', 'Gary', 'Felicia', 'Anna']
+invest(50): 50 + 205.75 (dailyBudget: 255.75)
+changeShift('Gary'): changes managerOnDuty to argument (managerOnDuty: 'Gary') 
+winAward: changes boolean to true (critiqueAward: true)
