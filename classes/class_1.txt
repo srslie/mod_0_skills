@@ -1,0 +1,13 @@
+Class: Restaurant
+
+Attributes:
+name (string)
+numberOfSeats (integer)
+open (boolean)
+menu (array)
+
+Methods:
+rebrand (concats 'Super' to the beginning of name)
+addPatio (increases numberOfSeats by 12)
+close (changes open to false)
+addFood (append an item to menu array)
