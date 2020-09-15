@@ -1,0 +1,13 @@
+Class: Restauant
+
+Attributes:
+staff (array of strings)
+dailyBudget (float)
+managerOnDuty (string)
+critiqueAward (boolean)
+
+Methods:
+hire (append staff array)
+invest (increases dailyBudget by parameter amount)
+changeShift (changes managerOnDuty)
+winAward (sets critiqueAward to true)
