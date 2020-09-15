@@ -1,0 +1,15 @@
+Object: BurgerJoint
+
+Attributes:
+name: 'Hamburgers and More'
+numberOfSeats: 40
+open: true
+menu: ['hamburger', 'fries', 'onion rings', 'root beer']
+
+Methods:
+rebrand:  'Super' + 'Hamburgers and More'  (name: 'Super Hambergers and More')
+addPatio: numberOfSeats + 12  (numberOfSeats: 52)
+close: set open as false (open: false)
+addFood('tots'): append argument to menu array (menu: ['hamburger', 'fries', 'onion rings', 'root beer', 'tots'])
+
+
